@@ -1,0 +1,12 @@
+BanRight
+turnRight
+10T
+Crosswalk
+goStraightOrTurnLeft
+speed80
+BanTurnAround
+Parking
+noParkingCar
+goStraight
+BanStraight
+Uturn
